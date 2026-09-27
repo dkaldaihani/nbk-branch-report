@@ -56,7 +56,7 @@ def main():
     withdrawals = fetch_withdrawals()
     flagged = flag_large_withdrawals(withdrawals)
 
-    print("Dana is the best!!!!!")
+    print("Dana is the BEST EVER")
     print("Withdrawals at or above " + format_kwd(FLAG_THRESHOLD_KWD))
     print("")
 
